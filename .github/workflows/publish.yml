@@ -15,9 +15,8 @@ jobs:
         run: |
           mkdir build
           typst compile --font-path src/fonts src/main.typ build/Dmitry_Shpika_CV.pdf
-      - name: Publish PDF
-        uses: actions/upload-artifact@v4
-        with:
-          name: Dmitry_Shpika_CV.pdf
-          path: build/Dmitry_Shpika_CV.pdf
-
+      - name: Create a release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create v1.0+$(date -u +"%Y%m%d%H%M%S") build/Dmitry_Shpika_CV.pdf
