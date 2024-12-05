@@ -1,0 +1,21 @@
+name: Publish CV
+on:
+  push:
+    branches:
+      - main
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Install Typst
+        uses: typst-community/setup-typst@v3
+      - name: Compile PDF
+        run: typst compile --font-path src/fonts src/main.typ build/Dmitry_Shpika_CV.pdf
+      - name: Publish PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: Dmitry_Shpika_CV.pdf
+          path: build/Dmitry_Shpika_CV.pdf
+
