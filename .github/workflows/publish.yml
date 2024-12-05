@@ -12,7 +12,9 @@ jobs:
       - name: Install Typst
         uses: typst-community/setup-typst@v3
       - name: Compile PDF
-        run: typst compile --font-path src/fonts src/main.typ build/Dmitry_Shpika_CV.pdf
+        run: |
+          mkdir build
+          typst compile --font-path src/fonts src/main.typ build/Dmitry_Shpika_CV.pdf
       - name: Publish PDF
         uses: actions/upload-artifact@v4
         with:
