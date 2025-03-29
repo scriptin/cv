@@ -3,13 +3,24 @@
 == Work history
 
 #history_record(
+  title: [Senior Frontend Developer / Consultant],
+  place: [TakeProfit, Inc.],
+  from: [Nov 2024],
+  to: [Present],
+  type: [Full-time / contactor],
+)[
+  Responsibilities: Developing the frontend of a trading platform at #link("https://takeprofit.com"),
+  focusing on the UI (Svelte + Tailwind) and the high-performance rendering engine of financial charts
+  using WebGL shaders.
+]
+
+#history_record(
   title: [Software Engineer],
-  from: [May 2023],
+  from: [Nov 2024],
   to: [Present],
   type: [Part-time / freelance],
 )[
-  Responsibilities: Developing a personal
-  language learning application project.
+  Responsibilities: Developing a personal language learning application project (yet to be released).
 ]
 
 #history_record(
@@ -23,7 +34,7 @@
   Developing new functionality of the web application. Participating in engineering decision-making
   by creating and reviewing technical proposals. Mentoring junior developers.
 
-  Achievements:
+  c
   - Developed and maintained an internal tool for converting vector graphics into an internal format,
     used by a company's content team of several people, accelerating and simplifying their work as a result.
   - Created a library for pre-processing vector images, which was subsequently integrated into several
