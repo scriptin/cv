@@ -12,6 +12,7 @@
 *Primary:*
 - TypeScript, JavaScript
 - HTML, DOM, Browser APIs
+- WebGL, Canvas (2D)
 - CSS, Tailwind, CSS modules, adaptive layouts etc.
 - Frontend: React, Astro, Svelte
 - Node.js
@@ -20,12 +21,10 @@
 - CI/CD: GitHub Actions, GitLab CI
 - Docker
 - Build tools: Webpack, Vite
-- Unit testing: Jest, Vitest, etc.
+- Testing: Jest, Vitest, Playwright
 
 *Secondary:*
-- Python
-- Bash
-- Kotlin, Gradle
+- Python, Bash, Kotlin
 - Graphic/web design
 - Security auditing
 
