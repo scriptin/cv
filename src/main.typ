@@ -8,9 +8,13 @@
 #set page(
   paper: "a4",
   margin: (x: 1.8cm, y: 1.5cm),
-  header: align(right)[
-    #text(fill: bg_color)[Dmitry Shpika]
-  ],
+  header: context {
+    if counter(page).get().first() > 1 [
+      #align(right)[
+        #text(fill: bg_color)[Dmitry Shpika]
+      ]
+    ]
+  },
   numbering: "1",
 )
 
