@@ -4,7 +4,7 @@
 
 #history_record(
   title: [Information security specialist],
-  place:[
+  at: [
     #link("https://kubstu.ru/")[Kuban State Technological University] (KubSTU), Krasnodar, Russia
   ],
   from: [2005],

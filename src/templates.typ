@@ -1,6 +1,6 @@
 #import "config.typ": bg_color, fg_color
 
-#let history_record(content, title: "", place: "Self-employed", from: "", to: "", type: "") = [
+#let history_record(content, title: "", at: "Self-employed", from: "", to: "", type: "") = [
   #let inset_left = 0.2cm
   #let inset_y = 0.1cm
   #block(
@@ -14,7 +14,7 @@
   #block(inset: (
     left: inset_left, right: 0cm, y: inset_y),
   )[
-    *#place*
+    *#at*
 
     #from #sym.arrow.r #to #sym.dot.op #type
 

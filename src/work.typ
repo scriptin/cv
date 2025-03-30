@@ -4,7 +4,7 @@
 
 #history_record(
   title: [Senior Frontend Developer / Consultant],
-  place: [TakeProfit, Inc.],
+  at: [TakeProfit, Inc.],
   from: [Nov 2024],
   to: [Present],
   type: [Full-time / contactor],
@@ -25,7 +25,7 @@
 
 #history_record(
   title: [Senior Software Engineer],
-  place: [Picsart, Inc.],
+  at: [Picsart, Inc.],
   from: [Oct 2021],
   to: [May 2023],
   type: [Full-time],
@@ -45,7 +45,7 @@
 
 #history_record(
   title: [Software Engineer],
-  place: [Swift Invention, Inc.],
+  at: [Swift Invention, Inc.],
   from: [Jul 2015],
   to: [Sep 2021],
   type: [Full-time / contactor],
@@ -65,7 +65,7 @@
 
 #history_record(
   title: [Software Engineer],
-  place: [Teligent LLC],
+  at: [Teligent LLC],
   from: [May 2014],
   to: [Apr 2015],
   type: [Full-time],
@@ -92,7 +92,7 @@
 
 #history_record(
   title: [Software Engineer],
-  place: [Bank Pervomaisky (PJSC)],
+  at: [Bank Pervomaisky (PJSC)],
   from: [Feb 2011],
   to: [Apr 2013],
   type: [Full-time],
