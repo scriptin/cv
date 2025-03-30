@@ -34,7 +34,7 @@
   Developing new functionality of the web application. Participating in engineering decision-making
   by creating and reviewing technical proposals. Mentoring junior developers.
 
-  c
+  Achievements:
   - Developed and maintained an internal tool for converting vector graphics into an internal format,
     used by a company's content team of several people, accelerating and simplifying their work as a result.
   - Created a library for pre-processing vector images, which was subsequently integrated into several
