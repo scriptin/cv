@@ -24,7 +24,7 @@
 ): it => [
   #set align(left)
   #set text(text_size * 3, weight: "regular", font: "Oswald", fill: fg_color, tracking: -1pt)
-  #block(upper(it.body))
+  #block(below: text_size, upper(it.body))
 ]
 
 #show heading.where(
@@ -44,6 +44,12 @@
 ]
 
 = Dmitry Shpika
+
+#text(fill: bg_color)[
+  he/him
+  #sym.dot.op
+  IPA pronunciation: /ˈdmitɾij ˈʂpika/
+]
 
 #line(
   length: 100%,
