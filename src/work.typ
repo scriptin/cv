@@ -16,8 +16,8 @@
 
 #history_record(
   title: [Software Engineer],
-  from: [Nov 2024],
-  to: [Present],
+  from: [May 2023],
+  to: [Nov 2024],
   type: [Part-time / freelance],
 )[
   Responsibilities: Developing a personal language learning application project (yet to be released).
