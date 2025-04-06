@@ -102,7 +102,7 @@
   Developing and maintaining websites for partner companies.
 
   Achievements:
-  - Developed, tested and deployed main website (tens of thousands of users monthly) on Drupal 6..
+  - Developed, tested and deployed the main website (tens of thousands of users monthly) on Drupal 6.
   - Designed, developed, deployed, and maintained a corporate CRM system with several hundreds of users.
   - Implemented multiple complex forms integrated with the internal CRM,
     including credit score calculations, business rules validations, and notifications.
