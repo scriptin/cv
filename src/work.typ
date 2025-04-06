@@ -86,7 +86,7 @@
   type: [Part-time / freelance],
 )[
   Achievements:
-  - In a personal project, created a largest dataset of character frequencies for Japanese language,
+  - In a personal project, I created a large dataset of character frequencies for the Japanese language,
     as well as several tools and datasets for studying Japanese language.
 ]
 
