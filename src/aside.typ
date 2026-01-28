@@ -13,10 +13,10 @@
 - HTML, DOM, Browser APIs
 - WebGL, Canvas (2D)
 - CSS, Tailwind, CSS modules, adaptive layouts etc.
-- Frontend: React, Astro, Svelte
-- Node.js
+- Frontend: React, Astro, Svelte/SvelteKit
+- Backend: Node.js
 - APIs: REST, GraphQL, RPC
-- SQL: MySQL, Postgres, SQLite
+- SQL: Postgres, SQLite
 - CI/CD: GitHub Actions, GitLab CI
 - Docker
 - Build tools: Webpack, Vite
@@ -31,11 +31,12 @@
 - Bootstrap, jQuery, Angular.js
 - Java, Scala, Spring Framework, Hibernate, jOOQ
 - PHP, Wordpress, Drupal, Joomla, Kohana, Yii
-- MongoDB, Redis
+- MySQL, MongoDB, Redis
 
 == Soft skills
 
 - Code reviews with extensive feedback
+- Technical interviews and onboarding
 - Mentoring of junior developers
 - Technical writing and proposals
 - Presentations, live demos
