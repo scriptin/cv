@@ -3,7 +3,7 @@
 == Work history
 
 #history_record(
-  title: [Senior Frontend Developer / Consultant],
+  title: [Senior Frontend Developer],
   at: [TakeProfit, Inc.],
   from: [Nov 2024],
   to: [Present],
@@ -12,6 +12,15 @@
   Responsibilities: Developing the frontend of a trading platform at #link("https://takeprofit.com"),
   focusing on the UI (Svelte + Tailwind) and the high-performance rendering engine of financial charts
   using WebGL shaders.
+
+  Achievements:
+  - Built, tested, and deployed several user-facing features related to financial charts: timeframe management,
+    a new type of series (using WegGL shaders), drawings synchronization across charts, hotkey support, etc.
+  - As a temporary tech lead, implemented several improvements of development cycle to improve code quality.
+  - Interviewed a dozen of candidates for senior/lead positions and onboarded two new hires.
+  - Created and maintained internal documentation and guides; developed tools and triage guides for QA engineers
+    and other teams to improve bug report quality.
+  - Debugged and fixed several dozens of production bugs.
 ]
 
 #history_record(
