@@ -1,7 +1,7 @@
 == Professional summary
 
 #par(justify: true)[
-  Software Engineer with over 13 years of experience specializing in full-stack
+  Software Engineer with over 15 years of experience specializing in full-stack
   and frontend web development. Expertise in TypeScript/JavaScript, React, Svelte,
   complemented by a strong background in creating robust web applications,
   libraries, and tools. Dedicated to producing clean, well-architected,
